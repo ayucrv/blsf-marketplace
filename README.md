@@ -75,6 +75,8 @@ Bangalore's luxury salon market is **fragmented, unverified, and inaccessible:**
 
 ---
 
+Link : https://rose-sparkle-find.lovable.app
+
 ## **Technical Architecture**
 
 ### **Tech Stack**
@@ -111,4 +113,3 @@ Backend:
   - pgvector (for AI embedding-based matching)
 
 
-Link : https://rose-sparkle-find.lovable.app
