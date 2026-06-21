@@ -1,5 +1,6 @@
 # blsf-marketplace
 *AI-powered luxury salon discovery marketplace for Bangalore—verified reviews, stylist matching,  instant booking. Targets ₹1,200 Cr market.*
+
 ## **The Problem**
 
 Bangalore's luxury salon market is **fragmented, unverified, and inaccessible:**
@@ -8,12 +9,12 @@ Bangalore's luxury salon market is **fragmented, unverified, and inaccessible:**
 - **No discovery platform** combines verified reviews + stylist specialization + personalization
 - **Fake reviews** dominate Google Maps and Instagram; customers can't verify stylist skill
 - **Offline booking friction** persists (WhatsApp DMs, unanswered calls, no real-time availability)
-- **Top 5 pain points** by severity × frequency:
-  1. Fake/incentivized reviews (severity 5/5, frequency 5/5)
-  2. Hidden pricing until you call (4/5, 5/5)
-  3. Can't verify stylist skill (5/5, 4/5)
-  4. No personalization to hair/skin type (4/5, 4/5)
-  5. Last-minute availability requires phone calls (3/5, 5/5)
+- **Top 5 pain points** by *severity × frequency*:
+  1. Fake/incentivized reviews *(severity 5/5, frequency 5/5)*
+  2. Hidden pricing until you call *(4/5, 5/5)*
+  3. Can't verify stylist skill *(5/5, 4/5)*
+  4. No personalization to hair/skin type *(4/5, 4/5)*
+  5. Last-minute availability requires phone calls *(3/5, 5/5)*
 
 **Existing competitors miss the luxury niche:** Urban Company dominates home services but not in-studio luxury. Fresha/Treatwell are generic booking tools with no trust layer. Local directories (Justdial, Sulekha) are stale. Instagram has discovery but zero transactional layer.
 
