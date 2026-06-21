@@ -26,7 +26,7 @@ Bangalore's luxury salon market is **fragmented, unverified, and inaccessible:**
 - **Persistent Beauty Profile:** Cross-salon history (hair type, skin tone, allergy notes, past services) for personalization
 - **Real-Time Booking:** 3-tap flow: select service → select stylist/slot → confirm
 
-## **🏪 Market Opportunity**
+## **Market Opportunity**
 
 ### **Bangalore Luxury Salon Hubs (Phase 1 Launch)**
 - **Indiranagar:** Young professionals, trendy studios, high app adoption
@@ -42,7 +42,7 @@ Bangalore's luxury salon market is **fragmented, unverified, and inaccessible:**
 4. **Riya (Social Media Influencer)** – Needs fast booking, photogenic ambience; ₹3,000–10,000/visit
 5. **Vikram & Sanjana (HNI Couple)** – White-glove service, top stylists, privacy; ₹10,000–50,000+/visit
 
-## **💰 Unit Economics & Revenue Model**
+## **Unit Economics & Revenue Model**
 
 ### **Business Model Streams**
 
@@ -75,7 +75,7 @@ Bangalore's luxury salon market is **fragmented, unverified, and inaccessible:**
 
 ---
 
-## **🛠️ Technical Architecture**
+## **Technical Architecture**
 
 ### **Tech Stack**
 
