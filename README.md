@@ -109,3 +109,6 @@ Backend:
   - Node.js + Express (or Next.js API routes)
   - PostgreSQL (salons, bookings, users, reviews)
   - pgvector (for AI embedding-based matching)
+
+
+Link : https://rose-sparkle-find.lovable.app
