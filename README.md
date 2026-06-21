@@ -1,5 +1,5 @@
 # blsf-marketplace
-<i>AI-powered luxury salon discovery marketplace for Bangalore—verified reviews, stylist matching,  instant booking. Targets ₹1,200 Cr market.</i>
+*AI-powered luxury salon discovery marketplace for Bangalore—verified reviews, stylist matching,  instant booking. Targets ₹1,200 Cr market.*
 ## **The Problem**
 
 Bangalore's luxury salon market is **fragmented, unverified, and inaccessible:**
